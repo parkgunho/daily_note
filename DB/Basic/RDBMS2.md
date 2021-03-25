@@ -56,5 +56,4 @@
   
   ![날짜, 시간, 화폐범위](https://slid-capture.s3.ap-northeast-2.amazonaws.com/public/capture_images/8488596ab1ea490ea5769a50acf8b9e9/e3712dc9-e085-44ec-8e23-ebeaf2abdbf9.png)
   
-  
- 
+  - 여러 화폐 단위를 지원할 경우 오류가 날 가능성이 있다고 함 쓰지 말자 
