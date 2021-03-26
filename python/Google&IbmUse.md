@@ -54,7 +54,7 @@ print(json.dumps(tone_analysis, indent=2))'
 
 - result 결과가 json 형태로 나옴 
 
-' "document_tone": {
+''' "document_tone": {
     "tones": [
       {
         "score": 0.6165,
@@ -108,7 +108,10 @@ print(json.dumps(tone_analysis, indent=2))'
       ]
     }
   ]
-}'
+}'''
+
+
+
 
 
 
