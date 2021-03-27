@@ -29,7 +29,7 @@
  
  - 예제 소스 
  
- ' import json
+ ``` import json
 from ibm_watson import ToneAnalyzerV3
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 
@@ -50,11 +50,11 @@ tone_analysis = tone_analyzer.tone(
     {'text': text},
     content_type='application/json'
 ).get_result()
-print(json.dumps(tone_analysis, indent=2))'
+print(json.dumps(tone_analysis, indent=2))```
 
 - result 결과가 json 형태로 나옴 
 
-''' "document_tone": {
+``` "document_tone": {
     "tones": [
       {
         "score": 0.6165,
@@ -108,7 +108,7 @@ print(json.dumps(tone_analysis, indent=2))'
       ]
     }
   ]
-}'''
+}```
 
 
 
