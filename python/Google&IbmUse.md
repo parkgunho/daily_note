@@ -1,3 +1,6 @@
+
+#AI API : IBM, KAKAO, GOOGLE, SALTLUX
+
 ## IBM
 
 # inside IBM
@@ -112,6 +115,5 @@ print(json.dumps(tone_analysis, indent=2))```
 
 
 
-#AI API : IBM, KAKAO, GOOGLE, SALTLUX
 
 
