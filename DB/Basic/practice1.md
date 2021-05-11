@@ -36,7 +36,7 @@
 <img src="https://drive.google.com/file/d/1MydEDmP1HUe2xNohdpyCFdFPR1mYcfCl/view?usp=sharingz" width="500" height="500">
 
 - PK가 너무 많아서 힘들 때는 보조키를 하나 만들어서 이를 참조할 때 사용하면 편리하다
-![image](https://user-images.githubusercontent.com/79051105/117811793-f846da00-b29b-11eb-89b5-b09ef12ee289.png)
+
 
 
 
